@@ -1,4 +1,4 @@
-baseURL = 'https://luolinlin1201.github.io/Im00_im00/'
+baseURL = 'https://github.com/luolinlin1201/Im00_im00.git'
 languageCode = 'en-us'
 title = '00‘s blog'
 theme = 'ananke'
